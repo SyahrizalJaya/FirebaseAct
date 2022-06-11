@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "486789321380",
+    "project_id": "fir-act-d6436",
+    "storage_bucket": "fir-act-d6436.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486789321380:android:b829f21025b4c40628cc31",
+        "android_client_info": {
+          "package_name": "com.example.firebaseact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486789321380-npqq3eqdlk6876o54nv101uiidl09vgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKgBaMPuRZI8c61PLlJiIWH5c6xOBWipg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486789321380-npqq3eqdlk6876o54nv101uiidl09vgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
